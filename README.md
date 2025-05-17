@@ -14,9 +14,9 @@ Sistema web para gerenciamento de bibliotecas, permitindo cadastro de livros, us
 ## ⚙️ Como Executar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/sistema-biblioteca.git
+   git clone https://github.com/lukinha21/sistema-biblioteca.git
    cd sistema-biblioteca
+   
 Instale as dependências:
 npm install
 
@@ -26,7 +26,6 @@ npm start
 Acesse em: http://localhost:3000
 
 📁 Estrutura do Projeto
-css
 sistema-biblioteca/
 ├── src/
 │   ├── controllers/
